@@ -2,5 +2,14 @@
 #numpy==1.24.3
 #pandas==2.0.3
 #python==3.8.*
-snowflake-snowpark-python
-streamlit
+#snowflake-snowpark-python
+#streamlit
+
+
+ 
+
+numpy=1.24.3
+pandas=2.0.3
+python=3.8.*
+snowflake-snowpark-python=1.9.0
+streamlit=1.31.1
