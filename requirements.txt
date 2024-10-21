@@ -6,5 +6,5 @@
 #streamlit
 
 
-snowflake-snowpark-python=1.9.0
-streamlit=1.31.1
+snowflake-snowpark-python
+streamlit
